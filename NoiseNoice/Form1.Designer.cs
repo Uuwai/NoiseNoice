@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             propertyGrid1 = new PropertyGrid();
             splitContainer1 = new SplitContainer();
             panel1 = new Panel();
@@ -354,6 +355,7 @@
             ClientSize = new Size(800, 450);
             Controls.Add(tableLayoutPanel3);
             Controls.Add(menuStrip1);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MainMenuStrip = menuStrip1;
             Name = "Form1";
             Text = "NoiseNoice";
