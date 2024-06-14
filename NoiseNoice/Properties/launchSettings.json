@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "NoiseNoice Terminal": {
+      "commandName": "Project",
+      "commandLineArgs": "image.jpg\r\nnoisedimage.png"
+    },
+    "NoiseNoice GUI": {
+      "commandName": "Project"
+    },
+    "NoiseNoice Terminal with JSON": {
+      "commandName": "Project",
+      "commandLineArgs": "image.jpg\r\nnoisedimage.png\r\nsettings.json"
+    },
+    "NoiseNoice Image only": {
+      "commandName": "Project",
+      "commandLineArgs": "image.jpg"
+    }
+  }
+}
