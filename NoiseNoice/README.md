@@ -72,6 +72,5 @@ Output location of the Image processed with noise.
 `[json file]`
 Location of the .json file.
 
-This will print the settings.
-
+This will print the settings. 
 Leaving this empty will generate random settings.
