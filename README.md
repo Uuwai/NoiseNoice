@@ -5,6 +5,7 @@ Seperated for Red, Green, and Blue.
 ## JSON Settings file
 
 ### The default settings
+
 ```
 {
     "division" : 1,
@@ -74,3 +75,15 @@ Location of the .json file.
 
 This will print the settings. 
 Leaving this empty will generate random settings.
+
+## Images
+
+Image [Campanula with waterdrops.jpg from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Campanula_with_waterdrops.jpg)
+
+![image](https://github.com/Uuwai/NoiseNoice/assets/118117530/bc983974-019f-4ba4-97eb-d3957a5f3d81)
+
+![image](https://github.com/Uuwai/NoiseNoice/assets/118117530/15f34d49-873a-421d-8c45-15ad468b7919)
+
+Create images with a given Pixel size
+
+![image](https://github.com/Uuwai/NoiseNoice/assets/118117530/354dd55b-dde3-42c0-bf4e-ad351874f355)
